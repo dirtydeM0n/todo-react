@@ -1,3 +1,6 @@
+# Special thanks to @briandesign
+Follow him on youtube real quick ;)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
